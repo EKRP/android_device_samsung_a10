@@ -140,6 +140,8 @@ TW_INTERNAL_STORAGE_MOUNT_POINT := "data"
 TW_EXTERNAL_STORAGE_PATH := "/external_sd"
 TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
 RECOVERY_SDCARD_ON_DATA := true
+EK_FLASHLIGHT_SYSFS := "/sys/devices/virtual/camera/flash/rear_torch_flash"
+EK_FLASHLIGHT_VALUE := 2016
 
 # LZMA Compression
 LZMA_COMPRESSION := -9
