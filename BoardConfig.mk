@@ -141,6 +141,9 @@ RECOVERY_SDCARD_ON_DATA := true
 EK_FLASHLIGHT_SYSFS := "/sys/devices/virtual/camera/flash/rear_torch_flash"
 EK_FLASHLIGHT_VALUE := 2016
 EK_HIDE_CLOCK := true
+TW_STATUS_ICONS_ALIGN := center
+TW_CUSTOM_CPU_POS := "50"
+TW_CUSTOM_BATTERY_POS := "800"
 
 # LZMA Compression
 LZMA_COMPRESSION := -9
